@@ -6,7 +6,8 @@ This project is a Power BI dashboard presenting insights gathered from a survey 
 
 - **Dashboard**: Includes the Power BI dashboard files.
 - **README.md**: Documentation about the project, including how to use the dashboard and potential questions that can be addressed using it.
-- **Data**: Contains the raw data collected from the survey.
+- **Raw Data**: Contains the raw data collected from the survey.
+- **Transformed Data**: Contains the transformed data by performing Data Cleaning.
 
 ## Dashboard Components
 
